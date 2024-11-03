@@ -47,8 +47,19 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+ ![OP1](https://github.com/user-attachments/assets/73318b4e-027f-4308-8553-ec24c5414611)
+![OP2](https://github.com/user-attachments/assets/82fccb41-ad94-45e3-b86c-15d3d32a2b18)
+
+ ![OP3](https://github.com/user-attachments/assets/300af212-1334-496b-9a7f-d40f109fe440)
+![OP4](https://github.com/user-attachments/assets/74067c3b-73c6-4e10-a0a6-a3fa88ee3bbe)
+
+![OP5](https://github.com/user-attachments/assets/8aa7cfa1-47e0-4b1d-a6ac-c9f08d4c5d2a)
+![OP6](https://github.com/user-attachments/assets/03fdd5c5-22db-46af-a96c-8121304f3eec)
+
+![OP7](https://github.com/user-attachments/assets/fe23397b-74de-4d0a-becc-3d9304618dc3)
+
+### Name: CHARU NETHRA R
+### Register Number: 212223230035
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
